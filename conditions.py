@@ -4,7 +4,7 @@ if (a == 2):
 elif (a == 3):
     print('goodbye')
 else:
-    print('dunno')
+    print('dunno what')
 
 # for example with 2 lists
 A = [1,2,3]
